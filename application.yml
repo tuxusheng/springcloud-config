@@ -7,6 +7,8 @@ spring:
   profiles: dev
     application: 
      name: springcloud-config-dev
+server:
+  port: 3355
 
 ---
 spring: 
